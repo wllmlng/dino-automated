@@ -1,4 +1,6 @@
 - How long you spent on the project
-- Your Dino's high score
+    - 1.5 ~ 2 hour (mostly spent watching the game play out)
+- Your Dino's high score: 
+    - HI: 09946
 - Explanation of any struggles of the assignment (if any)
-- Any other documentation that you think would be helpful/useful
+    - I feel I may be cheating by setting the speed for the startJump() method to 300.
