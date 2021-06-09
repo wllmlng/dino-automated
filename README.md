@@ -1,0 +1,4 @@
+- How long you spent on the project
+- Your Dino's high score
+- Explanation of any struggles of the assignment (if any)
+- Any other documentation that you think would be helpful/useful
